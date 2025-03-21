@@ -35,9 +35,9 @@ class DefaultFirebaseOptions {
   }
 
   static const FirebaseOptions web = FirebaseOptions(
-    apiKey: 'AIzaSyDV9uFHg5yfi7BgMqBfqRZkS1YnwagKcLE',
-    appId: '1:828698359246:web:b8b06c2ae2aa90a7d8279f',
-    messagingSenderId: '828698359246',
+    apiKey: 'YOUR API KEY',
+    appId: 'YOUR API ID',
+    messagingSenderId: 'YOUR ID',
     projectId: 'evervault-9d3e9',
     authDomain: 'evervault-9d3e9.firebaseapp.com',
     databaseURL: 'https://evervault-9d3e9-default-rtdb.firebaseio.com',
