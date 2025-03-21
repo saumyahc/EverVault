@@ -46,9 +46,9 @@ class DefaultFirebaseOptions {
   );
 
   static const FirebaseOptions android = FirebaseOptions(
-    apiKey: 'AIzaSyBVfpYTebSzz3fpaCuBV29WdmOXg4JwCvE',
-    appId: '1:828698359246:android:128339684c23f60dd8279f',
-    messagingSenderId: '828698359246',
+    apiKey: 'YOUR API KEY',
+    appId: 'YOUR API ID',
+    messagingSenderId: 'YOUR ID',
     projectId: 'evervault-9d3e9',
     databaseURL: 'https://evervault-9d3e9-default-rtdb.firebaseio.com',
     storageBucket: 'evervault-9d3e9.firebasestorage.app',
