@@ -1,2 +1,16 @@
-# EverVault
-Evervault is an innovative time capsule messaging platform that allows users to send messages, videos, and digital content to be unlocked at a future date. Whether it’s a personal letter to your future self, a scheduled surprise for a loved one, or a historical archive for future generations,EverVault ensures that messages are preserved.
+# time_capsule
+
+A new Flutter project.
+
+## Getting Started
+
+This project is a starting point for a Flutter application.
+
+A few resources to get you started if this is your first Flutter project:
+
+- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
+- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+
+For help getting started with Flutter development, view the
+[online documentation](https://docs.flutter.dev/), which offers tutorials,
+samples, guidance on mobile development, and a full API reference.
